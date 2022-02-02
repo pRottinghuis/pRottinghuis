@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @pRottinghuis
 - 👀 I’m interested in Minecraft modding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Computer Science
+- Pronouns: He/Him
+- Get Mods on https://www.curseforge.com/members/cfrishausen/projects
 
 <!---
 pRottinghuis/pRottinghuis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
